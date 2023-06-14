@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Sam Thrasher",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Casey Ferebee",
+      "email": "casey@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Logan Welch",
+      "email": "logan@gmail.com"
+    },
+    {
+      "email": "briana@gmail.com",
+      "fullName": "Briana Phillips",
+      "id": 4
+    }
+  ],
+  "hens": [
+    {
+      "id": 1,
+      "userId": 3,
+      "breedId": 6,
+      "name": "Hennifer",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "breedId": 1,
+      "name": "Hilary Fluff",
+      "dateHatched": "7/10/2022",
+      "layingStatusesId": 1,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "breedId": 7,
+      "name": "Princess Lay-a",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "breedId": 1,
+      "name": "Hedwig",
+      "dateHatched": "7/10/2022",
+      "layingStatusesId": 1,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "breedId": 6,
+      "name": "Henneth Paltrow",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "breedId": 6,
+      "name": "Selena Crowmez",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 7,
+      "userId": 3,
+      "breedId": 5,
+      "name": "Chickie Minaj",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 8,
+      "userId": 3,
+      "breedId": 2,
+      "name": "Muffy",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 9,
+      "userId": 3,
+      "breedId": 7,
+      "name": "Rihenna",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 10,
+      "userId": 3,
+      "breedId": 9,
+      "name": "Roo-Paul",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": "",
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 11,
+      "userId": 3,
+      "breedId": 4,
+      "name": "Chiquita",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": "",
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 12,
+      "userId": 3,
+      "breedId": 3,
+      "name": "Maleficent",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 13,
+      "userId": 3,
+      "breedId": 7,
+      "name": "Hen Solo",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 14,
+      "userId": 3,
+      "breedId": 8,
+      "name": "Robot Chicken",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 15,
+      "userId": 3,
+      "breedId": 8,
+      "name": "Burrito",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 16,
+      "userId": 3,
+      "breedId": 1,
+      "name": "Dorothy",
+      "dateHatched": "7/10/2022",
+      "layingStatusesId": 1,
+      "notes": "",
+      "henPhoto": ""
+    },
+    {
+      "id": 17,
+      "userId": 3,
+      "breedId": 1,
+      "name": "Blanche",
+      "dateHatched": "7/10/2022",
+      "layingStatusesId": 1,
+      "notes": "",
+      "henPhoto": ""
+    }
+  ],
+  "breeds": [
+    {
+      "id": 1,
+      "name": "Easter Egger"
+    },
+    {
+      "id": 2,
+      "name": "Golden Cuckoo Marans"
+    },
+    {
+      "id": 3,
+      "name": "Black Copper Marans"
+    },
+    {
+      "id": 4,
+      "name": "Silver Laced Wyandotte"
+    },
+    {
+      "id": 5,
+      "name": "Gold Laced Wyandotte"
+    },
+    {
+      "id": 6,
+      "name": "Green Queen"
+    },
+    {
+      "id": 7,
+      "name": "Black Australorp"
+    },
+    {
+      "id": 8,
+      "name": "Speckled Sussex"
+    },
+    {
+      "id": 9,
+      "name": "Barnevelder"
+    }
+  ],
+  "layingStatuses": [
+    {
+      "id": 1,
+      "status": "Laying"
+    },
+    {
+      "id": 2,
+      "status": "Not Laying"
+    }
+  ]
+}
