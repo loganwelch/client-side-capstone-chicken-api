@@ -113,26 +113,6 @@
       "henPhoto": ""
     },
     {
-      "id": 10,
-      "userId": 3,
-      "breedId": 9,
-      "name": "Roo-Paul",
-      "dateHatched": "3/27/2023",
-      "layingStatusesId": "",
-      "notes": "",
-      "henPhoto": ""
-    },
-    {
-      "id": 11,
-      "userId": 3,
-      "breedId": 4,
-      "name": "Chiquita",
-      "dateHatched": "3/27/2023",
-      "layingStatusesId": "",
-      "notes": "",
-      "henPhoto": ""
-    },
-    {
       "id": 12,
       "userId": 3,
       "breedId": 3,
